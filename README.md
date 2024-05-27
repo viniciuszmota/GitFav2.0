@@ -12,7 +12,7 @@ Git Fav
 <br>
 
 <p align="center">
-  <img alt="Aula Github Favorites" src="./assets/preview.png" width="100%">
+  <img alt="Desafio GitFav" src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

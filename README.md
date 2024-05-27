@@ -33,4 +33,3 @@ A página de título Github Favorites é uma apicação desenvolvida durante o S
 ---
 
 Feito com ♥ by Vinicius Zamprogno Mota, estudante na Rocketseat 👋
-# GitFav2.0
